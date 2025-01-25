@@ -1,1 +1,1 @@
-This a News Website.
+This is a News Website.
